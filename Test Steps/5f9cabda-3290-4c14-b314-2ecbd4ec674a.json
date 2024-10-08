@@ -1,0 +1,31 @@
+{
+    "steps": [
+        "step 1: Navigate to /gp/help/testlong/customer/gp/help/customer/gp/help/customer/gp/help/customer/gp/help/customer/testlong/customer/gp/help/customer/gp/help/customer/gp/help/customer/gp/help/customer/testlong/customer/gp/help/customer/gp/help/customer/gp/help/customer/gp/help/customer/testlong/customer/gp/help/customer/gp/help/customer/gp/help/customer/gp/help/customer/display.html",
+        "step 2: Click on link DogsOfAmazon",
+        "step 3: Click on link SorryWeCouldNotFindThat -> Navigate to page '/'",
+        "step 4: Click on link GiftCards -> Navigate to page 'Gift-Cards/*'",
+        "step 5: Click on link SubwayEGiftCard -> Navigate to page '*/dp/*/*'",
+        "step 6: Click on input AddToCart",
+        "step 7: Click on input AddToCart2",
+        "step 8: Enter input value in input Amount",
+        "step 9: Click on button Amount100",
+        "step 10: Click on button Amount100",
+        "step 11: Click on button Amount150",
+        "step 12: Click on button TextMessage",
+        "step 13: Click on input RecipientsSMS",
+        "step 14: Enter input value in input RecipientsSMS",
+        "step 15: Click on input SenderName",
+        "step 16: Click on div ValidPhoneMessage",
+        "step 17: Click on span PlusOne",
+        "step 18: Click on span PlusOne",
+        "step 19: Click on input RecipientsSMS",
+        "step 20: Click on div DeliveryMechanismForm",
+        "step 21: Enter input value in input RecipientsSMS",
+        "step 22: Click on input SenderName",
+        "step 23: Click on input SenderName",
+        "step 24: Enter input value in input SenderName",
+        "step 25: Click on textarea Message",
+        "step 26: Click on input Date -> Navigate to page ''",
+        "step 27: Take full page screenshot as checkpoint"
+    ]
+}
